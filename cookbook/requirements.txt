@@ -1,0 +1,17 @@
+django-graphql-jwt
+django-graphql-auth
+factory_boy
+pytest
+pytest_mock
+snapshottest
+pytest-django
+pytest-xdist
+pytest-cov
+django-environ
+pytest-freezegun
+pytest-network
+Django>=4.1
+graphene-django>=2.15.0
+psycopg2-binary>=2.9
+sqlparse==0.4.4
+asgiref==3.7.2
